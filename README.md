@@ -14,3 +14,8 @@ NUMPY
 8. Basic Mathematics 
 9. Statistics 
 10. Reorganizing Arrays (Reshape, Hstack, Vstack) 
+11. Join 
+12. Split 
+13. Search 
+14. Sort 
+15. Filter 
